@@ -1,0 +1,8 @@
+this is a demo file for branching in the github 
+not much more in the file 
+let me give a breif intro
+github is a platform which allows a team to work together 
+where repository is a specific file where we can build our projects
+branching is a process where it all comes under a main branch and splits into a specific  one
+like a tree where n nummber of branches 
+thank you for your response
